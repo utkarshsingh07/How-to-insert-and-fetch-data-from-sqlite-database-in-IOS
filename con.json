@@ -1,0 +1,50 @@
+
+[
+ {
+ "id": "1",
+ "name": "Eminem",
+ "lati": 18.520430300000000000,
+ "longi": 73.856743699999920000,
+ "imagename": ""
+ },
+ 
+ {
+ "id": "2",
+ "name": "Drake",
+ "lati": 22.000000,
+ "longi": 75.00000000,
+ "imagename": ""
+ },
+ 
+ {
+ "id": "3",
+ "name": "Royce",
+ "lati": 22.72149,
+ "longi": 75.87775,
+ "imagename": ""
+ },
+ 
+ {
+ "id": "4",
+ "name": "Dr. Dre",
+ "lati": 51.507774,
+ "longi": -0.099446,
+ "imagename": ""
+ },
+ 
+ {
+ "id": "5",
+ "name": "Lil Wayne",
+ "lati": 48.858271,
+ "longi": 2.294114,
+ "imagename": ""
+ },
+ 
+ {
+ "id": "6",
+ "name": "Alchemist",
+ "lati": 41.414483,
+ "longi": 2.152579,
+ "imagename": ""
+ }
+ ]
