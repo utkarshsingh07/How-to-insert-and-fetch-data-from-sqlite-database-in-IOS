@@ -17,7 +17,7 @@
      // declare our sqlite3 database.
     
     NSMutableArray *arrTempData; // NSMutable Array for store the fetched data.
-    
+    //////////////////////////////////////////////
 }
 @property (strong, nonatomic) IBOutlet UITableView *tblData;
 

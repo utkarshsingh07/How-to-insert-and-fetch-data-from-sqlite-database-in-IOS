@@ -190,7 +190,7 @@ AppDelegate *objApp;
     return count;
     
 }
-
+/////////////////////////////////////////////////////////////////
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
@@ -212,7 +212,7 @@ AppDelegate *objApp;
     // Return the number of rows in the section.
     return [arrTempData count];
 }
-
+////////////////////////////////////////////////////////////////////////
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
